@@ -1,4 +1,4 @@
-utente: "utente card service"
+utente: utente1
 logging:
   level:
     org.example.cardservice: WARN
