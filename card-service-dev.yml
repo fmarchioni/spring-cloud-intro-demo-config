@@ -1,3 +1,4 @@
+utente: "utente card service developer"
 logging:
   level:
     org.example.cardservice: DEBUG
