@@ -1,4 +1,4 @@
-utente: utentedev
+utente: superuser
 logging:
   level:
     org.example.cardservice: DEBUG
