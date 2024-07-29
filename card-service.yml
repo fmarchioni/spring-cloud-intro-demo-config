@@ -1,4 +1,4 @@
-utente: utentedefault
+utente: superutente
 logging:
   level:
     org.example.cardservice: WARN
